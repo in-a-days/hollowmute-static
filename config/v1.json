@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "version": 1,
+    "last_updated": "2026-01-03T00:00:00Z",
+    "environment": "production"
+  },
+
+  "band": {
+    "name": "Hollow Mute",
+    "tagline": "Fast. Loud. Honest.",
+    "location": "Las Vegas, NV"
+  },
+
+  "links": {
+    "listen": {
+      "primary": "https://li.sten.to/o0e4nst3",
+      "spotify": "https://open.spotify.com/",
+      "apple_music": "https://music.apple.com/",
+      "youtube_music": "https://music.youtube.com/"
+    },
+    "watch": {
+      "youtube": "https://youtube.com/",
+      "instagram": "https://instagram.com/",
+      "tiktok": "https://tiktok.com/"
+    },
+    "merch": "https://example-merch-store.com",
+    "website": "https://hollowmute.com",
+    "contact_email": "contact@hollowmute.com"
+  },
+
+  "releases": [
+    {
+      "title": "Mosh Rattle",
+      "type": "single",
+      "release_date": "2026-01-01",
+      "listen_url": "https://li.sten.to/o0e4nst3"
+    }
+  ],
+
+  "tour": [
+    {
+      "date": "2026-02-14",
+      "city": "Las Vegas, NV",
+      "venue": "Example Venue",
+      "tickets_url": "https://example-ticket-site.com",
+      "notes": "All ages"
+    }
+  ],
+
+  "ui": {
+    "theme": {
+      "primary_color": "#111111",
+      "accent_color": "#e11d48"
+    },
+    "cta_labels": {
+      "listen": "Listen Now",
+      "tickets": "Get Tickets",
+      "merch": "Shop Merch"
+    }
+  }
+}
